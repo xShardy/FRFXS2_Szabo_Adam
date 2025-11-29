@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4481dd8a-e261-48e1-ad96-ff544ee438a6" name="Changes" comment="beadando+razj" />
+    <list default="true" id="4481dd8a-e261-48e1-ad96-ff544ee438a6" name="Changes" comment="struktura">
+      <change afterPath="$PROJECT_DIR$/beadando/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1759074258195</updated>
       <workItem from="1759074302229" duration="3764000" />
-      <workItem from="1764412152968" duration="3638000" />
+      <workItem from="1764412152968" duration="4197000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <option name="closed" value="true" />
@@ -120,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764415797541</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="struktura">
+      <option name="closed" value="true" />
+      <created>1764415874234</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764415874234</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,10 +141,11 @@
     <MESSAGE value="test commit" />
     <MESSAGE value="pentagramm rajzolás" />
     <MESSAGE value="beadando+razj" />
-    <option name="LAST_COMMIT_MESSAGE" value="beadando+razj" />
+    <MESSAGE value="struktura" />
+    <option name="LAST_COMMIT_MESSAGE" value="struktura" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$rajz.coverage" NAME="rajz Coverage Results" MODIFIED="1759077155481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject$harc_sza_gui.coverage" NAME="harc_sza_gui Coverage Results" MODIFIED="1764415410496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beadando" />
+    <SUITE FILE_PATH="coverage/PythonProject$harc_sza_gui.coverage" NAME="harc_sza_gui Coverage Results" MODIFIED="1764415922698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beadando" />
   </component>
 </project>
