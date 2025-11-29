@@ -20,6 +20,7 @@ def rajz():
 ablak = turtle.Screen()
 ablak.title("Pentagram - 'd' rajzol, Esc kilép")
 
+
 turtle.listen()
 turtle.onkey(rajz, "d")
 turtle.onkey(turtle.bye, "Escape")
