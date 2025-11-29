@@ -11,7 +11,7 @@ class SzaHarcJatek:
 
     def __init__(self, root):
         self.root = root
-        self.root.title("Varázsló vs Boss – SZA verzió")
+        self.root.title("Varázsló vs Boss")
 
         # játékkal kapcsolatos változók
         self.varazslo_hp = VARAZSLO_MAX_HP
