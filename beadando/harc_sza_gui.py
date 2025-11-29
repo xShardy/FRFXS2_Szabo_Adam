@@ -325,10 +325,3 @@ class SzaHarcJatek:
                 self.cooldowns[i] -= 1
 
         self.update_spell_buttons()
-
-
-# indítás
-if __name__ == "__main__":
-    root = tk.Tk()
-    app = SzaHarcJatek(root)
-    root.mainloop()
